@@ -1,0 +1,73 @@
+.my-contain{
+    margin: 0 5%;
+}
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle!important;
+}
+.login_title{
+    margin:0 auto;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.back-nav{
+    margin-bottom: 0;
+}
+.back-carousel-div{
+    height: 450px;
+}
+.back-carousel-img{
+    height:100%;
+    width:100%;
+}
+.back-nav-tabs-ol{
+    margin-bottom: 0;
+}
+.back-form-inline-margin{
+    margin-top: 10px;
+}
+.carouselBottom{
+    position: relative  ;
+    width: 100%;
+    height: 10%;
+    line-height: 1.37rem;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    background: rgba(0, 0, 0);
+}
+.carouselItem{
+
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-color: rgba(255,255,255,0.2);
+}
+
+.general{
+    padding: 10px;
+    width: 25%;
+    height: 100px;
+}
+.recommend{
+    box-shadow:-2px -2px 1px #b8c5cd inset;
+    margin: 10px;
+    width: 25%;
+    height: 200px;
+    padding: 20px;
+}
+.thumbnail{
+
+}
+.creat_order{
+    padding: 10px 10px;
+    margin: 0 5px;
+}
+.allcheck{
+    margin: 10px 10px;
+}
+.address{
+    margin: 10px 10px;
+}
